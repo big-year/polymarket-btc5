@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+live_trading_confirm.txt
+
+# Runtime data
+sniper_data/
+grid_shadow_data/
+*.log
+*.csv
+*.json
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
