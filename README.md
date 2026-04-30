@@ -10,6 +10,7 @@
 如需交流、定制开发、部署协助或策略二次开发：
 
 - TG：`@whoisme123s`
+- TG交流群: `https://t.me/+bJEMxni32JY2Yjhk`
 
 ---
 
